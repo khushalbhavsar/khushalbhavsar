@@ -58,6 +58,6 @@ I'm a <b>cloud & DevOps enthusiast</b> with strong expertise in <b>AWS</b> and a
 <div align="center">
   <!-- 🔥 Main GitHub Stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khushalbhavsar&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <br>
+  <br> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalbhavsar&layout=compact&langs_count=8&theme=radical&hide_border=false" alt="Top Languages"/>
 </div>

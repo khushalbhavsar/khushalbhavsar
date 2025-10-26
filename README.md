@@ -1,96 +1,68 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00E6FE&center=true&width=1000&lines=Hi,%20I'm%20Khushal%20Bhavsar!;Full%20Stack%20Developer%20%7C%20AWS%20Cloud%20Enthusiast;Problem%20Solver;Tech%20Explorer%20🚀" />
-</h1>
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE0NjYzNTUsIm5iZiI6MTc2MTQ2NjA1NSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI2VDA4MDczNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzNTdmZjA5MmEyODFhMmVlY2IzM2FhNzA4ZjE3NjQ0OThlMTZmZTEwZGY5NzVjZTdhNmNiZDFhNGVlZTRmNTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2ItIbJbhP_7910NJ31p4z_0q4sRqQOafNGs7xIjr7rQ" alt="Profile Banner" width="100%" />
+</p>
 
-# 💫 About Me:
-* 💻 Full-Stack Developer skilled in **MERN stack** & **AWS Cloud**.
-* 🚀 Love solving real-world problems with tech.
-* 🤝 Open to **collaboration** on projects & hackathons.
-* ⚙️ Exploring **DevOps tools** (Docker, Kubernetes, CI/CD).
-* 🏍️ Biker at heart, coder by passion 🌍
-  
+<h1 align="center">Hi there 👋 I'm 👨‍💻 Khushal Bhavsar</h1>
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushal-bhavsar-/) 
+---
 
-# 💻 Tech Stack:
+<h2 align="center">About Me</h2>
 
-### 🚀 Programming & Web Development
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+<p align="center">
+I'm a <b>cloud & DevOps enthusiast</b> with strong expertise in <b>AWS</b> and a solid foundation in <b>full-stack web development</b>. I enjoy building <b>scalable, reliable applications</b> while exploring modern cloud technologies and automation practices.
+</p>
 
-### ⚡ MERN Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) 
-![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) 
+<p align="center">
+  <ul>
+    <li>☁️ <b>AWS Services:</b> EC2, S3, IAM, RDS, EKS</li>
+    <li>⚙️ <b>DevOps Practices:</b> CI/CD, Docker, Kubernetes, Jenkins, GitHub Actions, Terraform</li>
+    <li>💻 <b>Full-Stack Development:</b> React, Node.js, Express, MongoDB, MySQL</li>
+    <li>🚀 Passionate about creating <b>real-world solutions</b> and improving <b>user experience</b></li>
+    <li>🌱 Continuously learning <b>new technologies</b> to stay updated in cloud, DevOps, and web development</li>
+  </ul>
+</p>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+---
 
-### ☁️ AWS Cloud
-![EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VPC](https://img.shields.io/badge/AWS-VPC-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Route 53](https://img.shields.io/badge/AWS-Route%2053-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![S3](https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![RDS](https://img.shields.io/badge/AWS-RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![API Gateway](https://img.shields.io/badge/AWS-API%20Gateway-FF4F00?style=for-the-badge&logo=amazon-api-gateway&logoColor=white)
-![ECS](https://img.shields.io/badge/AWS-ECS-FF9900?style=for-the-badge&logo=amazon-ecs&logoColor=white)
-![EKS](https://img.shields.io/badge/AWS-EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
-![IAM](https://img.shields.io/badge/AWS-IAM-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Security Groups](https://img.shields.io/badge/AWS-Security%20Groups-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-FF4F00?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-
-
-# 📊 GitHub Stats:
+<h2 align="center">I code with</h2>
 
 <div align="center">
-  
-  <!-- 🐍 Snake Contribution Animation -->
-  <img src="https://raw.githubusercontent.com/khushalbhavsar/khushalbhavsar/output/snake.svg" alt="Snake animation" />
-  <img src="https://raw.githubusercontent.com/khushalbhavsar/khushalbhavsar/output/snake.svg" alt="Snake animation" />
-
-  <br/><br/>
-
-  <!-- 🔥 Main GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khushalbhavsar&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalbhavsar&layout=compact&langs_count=8&theme=radical&hide_border=false" alt="Top Languages" />
-
-  <!-- ⚡ Streak Stats -->
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=khushalbhavsar&theme=radical&hide_border=false" alt="GitHub Streak" />
-  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,jenkins,githubactions,docker,kubernetes,terraform,aws,linux,cpp,js,php,html,css,react,redux,bootstrap,tailwindcss,nodejs,expressjs,mongodb,mysql" alt="Skills Icons"/>
+  </a>
 </div>
 
 ---
 
-✅ *Tip:*  
-If the stats ever fail to load due to API rate limits, deploy your own copy on Vercel using the instructions here →  
-👉 [GitHub Readme Stats Docs](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance)
+<h2 align="center">Connect with me</h2>
 
+<div align="center">
+  <a href="https://instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/yourusername" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:youremail@gmail.com" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=khushalbhavsar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <!-- 🐍 Snake Contribution Animation -->
+  <img src="https://raw.githubusercontent.com/khushalbhavsar/khushalbhavsar/output/snake.svg" alt="Snake animation"/>
+</div>
+
+<div align="center">
+  <!-- 🔥 Main GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khushalbhavsar&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalbhavsar&layout=compact&langs_count=8&theme=radical&hide_border=false" alt="Top Languages"/>
+</div>

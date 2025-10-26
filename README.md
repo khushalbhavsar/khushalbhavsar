@@ -8,7 +8,9 @@
   I'm 👨‍💻 Khushal Bhavsar
 </h1>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated GIF" width="100%" />
+</p>
 
 <h2 align="center">About Me</h2>
 
@@ -26,7 +28,9 @@ I'm a <b>cloud & DevOps enthusiast</b> with strong expertise in <b>AWS</b> and a
   </ul>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated GIF" width="100%" />
+</p>
 
 <h2 align="center">I code with</h2>
 
@@ -36,7 +40,9 @@ I'm a <b>cloud & DevOps enthusiast</b> with strong expertise in <b>AWS</b> and a
   </a>
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated GIF" width="100%" />
+</p>
 
 <h2 align="center">Connect with me</h2>
 
@@ -52,12 +58,17 @@ I'm a <b>cloud & DevOps enthusiast</b> with strong expertise in <b>AWS</b> and a
   </a>
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated GIF" width="100%" />
+</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <!-- 🔥 Main GitHub Stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khushalbhavsar&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <br> <br>
+  <br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalbhavsar&layout=compact&langs_count=8&theme=radical&hide_border=false" alt="Top Languages"/>
 </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated GIF" width="100%" />
+</p>

@@ -69,6 +69,4 @@ I'm a <b>cloud & DevOps enthusiast</b> with strong expertise in <b>AWS</b> and a
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalbhavsar&layout=compact&langs_count=8&theme=radical&hide_border=false" alt="Top Languages"/>
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated GIF" width="100%" />
-</p>
+

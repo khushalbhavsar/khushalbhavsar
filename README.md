@@ -51,12 +51,6 @@ I'm a <b>cloud & DevOps enthusiast</b> with strong expertise in <b>AWS</b> and a
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <!-- 🐍 Snake Contribution Animation -->
-  <img src="https://raw.githubusercontent.com/khushalbhavsar/khushalbhavsar/output/snake.svg" alt="Snake animation"/>
-</div>
-
 <div align="center">
   <!-- 🔥 Main GitHub Stats -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khushalbhavsar&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats"/>

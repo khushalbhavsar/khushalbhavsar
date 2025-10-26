@@ -63,17 +63,25 @@ I'm a <b>cloud & DevOps enthusiast</b> with strong expertise in <b>AWS</b> and a
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-  <img  height="180em"  src="https://streak-stats.demolab.com?user=khushalbhavsar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-    <br><br>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khushalbhavsar&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <br><br> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalbhavsar&layout=compact&langs_count=8&theme=radical&hide_border=false" alt="Top Languages"/>
-</div>
 
+<div align="center">
+
+  <!-- 🟡 Pac-Man Contribution Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khushalbhavsar/khushalbhavsar/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khushalbhavsar/khushalbhavsar/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/khushalbhavsar/khushalbhavsar/output/pacman-contribution-graph.svg" />
+  </picture>
+
+  <br/>
+
+  <!-- 🔥 GitHub Streak Stats -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=khushalbhavsar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph" />
+
+  <br/>
+
+  <!-- 📈 Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalbhavsar&layout=compact&langs_count=8&theme=radical&hide_border=false" alt="Top Languages" />
+
+</div>
 

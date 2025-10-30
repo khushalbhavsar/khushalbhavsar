@@ -77,7 +77,7 @@ I'm a <b>cloud & DevOps enthusiast</b> with strong expertise in <b>AWS</b> and a
 
   <!-- 🔥 GitHub Streak Stats -->
   <img height="180em" src="https://streak-stats.demolab.com?user=khushalbhavsar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="streak graph" />
-
+  ![Khushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushalbhavsar&show_icons=true&bg_color=00000000)
   <br/>
 
   <!-- 📈 Top Languages -->

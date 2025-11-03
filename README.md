@@ -1,7 +1,4 @@
 <p align="center">
-   <img  src="https://camo.githubusercontent.com/21a854b4858cf3cf6549213d8a750302f74e517f39df4a77474229112887a6c5/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353831342f66696c652f6f726967696e616c2d61643334653561336435383761386139306236353836646536373731303232352e676966" 
-     alt="Profile Banner" width="100%" />
-
   <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif"  alt="Profile Banner" width="100%" />
 </p>
 

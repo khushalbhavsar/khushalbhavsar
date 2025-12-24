@@ -17,18 +17,25 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-I'm a <b>cloud & DevOps enthusiast</b> with strong expertise in <b>AWS</b> and a solid foundation in <b>full-stack web development</b>. I enjoy building <b>scalable, reliable applications</b> while exploring modern cloud technologies and automation practices.
+I’m a <b>Cloud & DevOps enthusiast</b> with strong expertise in <b>AWS</b> and a solid foundation in building <b>automated, high-availability systems</b>. I enjoy architecting <b>scalable, reliable applications</b> while exploring modern cloud technologies, <b>Infrastructure as Code</b>, and <b>CI/CD automation</b> practices.
 </p>
 
 <p align="center">
   <ul>
-    <li>☁️ <b>AWS Services:</b> EC2, S3, IAM, RDS, EKS</li>
-    <li>⚙️ <b>DevOps Practices:</b> CI/CD, Docker, Kubernetes, Jenkins, GitHub Actions, Terraform</li>
-    <li>💻 <b>Full-Stack Development:</b> React, Node.js, Express, MongoDB, MySQL</li>
-    <li>🚀 Passionate about creating <b>real-world solutions</b> and improving <b>user experience</b></li>
-    <li>🌱 Continuously learning <b>new technologies</b> to stay updated in cloud, DevOps, and web development</li>
+    <li>🐍 <b>Programming & Scripting:</b> Python, Bash</li>
+    <li>🔧 <b>Version Control:</b> Git, GitHub</li>
+    <li>⚙️ <b>CI/CD Tools:</b> Jenkins, GitLab, SonarQube</li>
+    <li>🐳 <b>Containers:</b> Docker</li>
+    <li>☸️ <b>Container Orchestration:</b> Kubernetes, Amazon EKS</li>
+    <li>☁️ <b>Cloud Platform (AWS):</b> EC2, ECS, EKS, ECR, EBS, EFS, S3, RDS, IAM, VPC, ELB, ALB, DynamoDB, Lambda, CLI, CloudShell, CloudWatch</li>
+    <li>🏗️ <b>Infrastructure as Code (IaC):</b> Terraform, AWS CloudFormation</li>
+    <li>🤖 <b>Automation & Configuration Management:</b> Ansible, Puppet, Chef</li>
+    <li>🌐 <b>Networking:</b> Routing, Security Groups</li>
+    <li>📊 <b>Monitoring & Observability:</b> CloudWatch, Prometheus, Grafana</li>
+    <li>🐧 <b>Operating Systems:</b> Linux (Ubuntu, Amazon Linux)</li>
   </ul>
 </p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated GIF" width="100%" />

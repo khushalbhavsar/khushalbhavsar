@@ -223,17 +223,6 @@ fun_fact: "I automate everything... even my morning coffee! ☕"
   </a>
 </p>
 
-<br/>
-
-<!-- Support Section -->
-<h3 align="center">⭐ If you like my projects, Give them a star! ⭐</h3>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/khushalbhavsar">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-</p>
-
 <!-- Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>

@@ -188,6 +188,22 @@ fun_fact: "I automate everything... even my morning coffee! ☕"
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated Divider" width="100%" />
 </p>
 
+<!-- Certifications Section -->
+<h2 align="center">
+  🏆 Certifications
+</h2>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/your-badge-link" target="_blank">
+    <img src="./images/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect Associate" width="150"/>
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated Divider" width="100%" />
+</p>
+
 <!-- Random Dev Quote -->
 <h2 align="center">
   💭 Dev Quote of the Day

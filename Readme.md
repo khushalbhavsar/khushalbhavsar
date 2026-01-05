@@ -166,24 +166,24 @@ fun_fact: "I automate everything... even my morning coffee! ☕"
 <!-- GitHub Trophies -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=khushalbhavsar&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=khushalbhavsar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
   </a>
 </p>
 
 <br/>
 
 <!-- Stats Cards -->
-<p align="center">
-  <a href="https://github.com/khushalbhavsar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khushalbhavsar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalbhavsar&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
-  </a>
-</p>
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=khushalbhavsar&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Khushal Bhavsar GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalbhavsar&layout=compact&hide_border=true&title_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+</div>
+
+<br/>
 
 <!-- GitHub Streak -->
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=khushalbhavsar&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak"/>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushalbhavsar&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=ff91a4&fire=ff91a4&currStreakLabel=ff91a4" alt="GitHub Streak"/>
   </a>
 </p>
 

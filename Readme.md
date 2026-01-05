@@ -1,8 +1,3 @@
-<!-- Banner GIF -->
-<p align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679340545003/04ef510f-3ef1-40b7-b319-a233ee20d661.gif" alt="DevOps Banner" width="100%"/>
-</p>
-
 <!-- Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>

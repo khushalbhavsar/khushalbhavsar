@@ -140,12 +140,15 @@ fun_fact: "I automate everything... even my morning coffee! ☕"
 
 | Category | Technologies |
 |----------|-------------|
-| ☁️ **AWS Services** | EC2, ECS, EKS, ECR, EBS, EFS, S3, RDS, IAM, VPC, ELB, ALB, DynamoDB, Lambda, CloudWatch, CloudFormation |
-| ⚙️ **CI/CD Tools** | Jenkins, GitLab CI, GitHub Actions, SonarQube |
-| 🐳 **Containers** | Docker, Kubernetes, Amazon EKS |
-| 🏗️ **IaC** | Terraform, AWS CloudFormation, Ansible |
-| 📊 **Monitoring** | CloudWatch, Prometheus, Grafana |
-| 🐧 **OS** | Linux (Ubuntu, Amazon Linux), Bash Scripting |
+| 🐳 **Core DevOps** | Docker, Kubernetes, Amazon EKS, Jenkins, Terraform |
+| ☁️ **Cloud Platform (AWS)** | EC2, EKS, ECR, S3, RDS, IAM, VPC, ALB, CloudWatch |
+| ⚙️ **CI/CD** | Jenkins, GitLab CI, SonarQube |
+| 🏗️ **Infrastructure as Code** | Terraform (modules, state management) |
+| 📊 **Monitoring & Observability** | Prometheus, Grafana, CloudWatch |
+| 🐍 **Scripting & Automation** | Bash, Python (CI/CD scripts, automation tasks) |
+| 🔧 **Version Control** | Git, GitHub |
+| 🐧 **Operating Systems** | Linux (Ubuntu, Amazon Linux) |
+| 🤖 **Configuration Management (Familiar)** | Ansible, Puppet, Chef |
 
 </details>
 
@@ -236,11 +239,6 @@ fun_fact: "I automate everything... even my morning coffee! ☕"
 <!-- Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-</p>
-
-<!-- Visitor Counter Animation -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/khushalbhavsar/count.svg" alt="Visitor Count"/>
 </p>
 
 <p align="center">

@@ -78,10 +78,6 @@ fun_fact: "I automate everything... even my morning coffee! ☕"
 <table align="center">
   <tr>
     <td align="center" width="140" height="112">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-      <br><b>AWS</b>
-    </td>
-    <td align="center" width="140" height="112">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
       <br><b>Docker</b>
     </td>
@@ -90,34 +86,38 @@ fun_fact: "I automate everything... even my morning coffee! ☕"
       <br><b>Kubernetes</b>
     </td>
     <td align="center" width="140" height="112">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <br><b>AWS</b>
+    </td>
+    <td align="center" width="140" height="112">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="65" height="65" />
+      <br><b>Terraform</b>
+    </td>
+    <td align="center" width="140" height="112">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="65" height="65" />
+      <br><b>Jenkins</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140" height="112">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
       <br><b>Python</b>
+    </td>
+    <td align="center" width="140" height="112">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="65" height="65" />
+      <br><b>Bash</b>
+    </td>
+    <td align="center" width="140" height="112">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
+      <br><b>Linux</b>
     </td>
     <td align="center" width="140" height="112">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
       <br><b>GitHub</b>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="140" height="112">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br><b>JavaScript</b>
-    </td>
-    <td align="center" width="140" height="112">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br><b>React</b>
-    </td>
-    <td align="center" width="140" height="112">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br><b>MySQL</b>
-    </td>
-    <td align="center" width="140" height="112">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-      <br><b>Nginx</b>
-    </td>
-    <td align="center" width="140" height="112">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-      <br><b>REST API</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+      <br><b>Git</b>
     </td>
   </tr>
 </table>
@@ -127,7 +127,7 @@ fun_fact: "I automate everything... even my morning coffee! ☕"
 <!-- Additional Skills with Icons -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,jenkins,githubactions,terraform,ansible,linux,bash,mongodb,nodejs,express,tailwind,bootstrap&perline=6" alt="Skills Icons"/>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,python,bash,linux,git,github,gitlab,ansible,prometheus,grafana&perline=7" alt="Skills Icons"/>
   </a>
 </div>
 

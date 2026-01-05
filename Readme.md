@@ -165,11 +165,9 @@ fun_fact: "I automate everything... even my morning coffee! ☕"
 
 <!-- GitHub Streak -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=khushalbhavsar&theme=algolia&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=khushalbhavsar&theme=default&hide_border=true"/>
-    <img src="https://streak-stats.demolab.com?user=khushalbhavsar&theme=algolia&hide_border=true" alt="GitHub Streak"/>
-  </picture>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=khushalbhavsar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  </a>
 </p>
 
 <!-- Contribution Graph -->

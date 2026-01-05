@@ -12,6 +12,9 @@
 
 <!-- Profile Badges -->
 <p align="center">
+  <a href="https://portfolio-topaz-omega-46.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://github.com/khushalbhavsar">
     <img src="https://komarev.com/ghpvc/?username=khushalbhavsar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </a>

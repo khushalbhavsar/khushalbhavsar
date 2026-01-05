@@ -163,35 +163,22 @@ fun_fact: "I automate everything... even my morning coffee! ☕"
 
 <br/>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=khushalbhavsar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
-  </a>
-</p>
-
-<br/>
-
-<!-- Stats Cards -->
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=khushalbhavsar&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Khushal Bhavsar GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalbhavsar&layout=compact&hide_border=true&title_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
-</div>
-
-<br/>
-
 <!-- GitHub Streak -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushalbhavsar&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=ff91a4&fire=ff91a4&currStreakLabel=ff91a4" alt="GitHub Streak"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=khushalbhavsar&theme=algolia&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=khushalbhavsar&theme=default&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=khushalbhavsar&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+  </picture>
 </p>
 
 <!-- Contribution Graph -->
 <p align="center">
-  <a href="https://github.com/khushalbhavsar">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushalbhavsar&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=khushalbhavsar&theme=react-dark&hide_border=true&area=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=khushalbhavsar&theme=minimal&hide_border=true&area=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushalbhavsar&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  </picture>
 </p>
 
 <!-- Snake Animation -->

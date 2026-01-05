@@ -168,9 +168,7 @@ fun_fact: "I automate everything... even my morning coffee! ☕"
 
 <!-- GitHub Streak -->
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=khushalbhavsar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=khushalbhavsar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <!-- Contribution Graph -->

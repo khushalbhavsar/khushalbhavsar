@@ -1,197 +1,167 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</p>
+<!-- 3D Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Khushal%20Bhavsar&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=75&descSize=20"/>
 
-<!-- Animated Typing Effect -->
-<p align="center">
+<!-- Animated Introduction -->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=750&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+Khushal+Bhavsar;Cloud+%26+DevOps+Engineer+%7C+AWS+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=%E2%98%81%EF%B8%8F+Building+Cloud+Infrastructure+at+Scale;%F0%9F%9A%80+Automating+Everything+with+DevOps;%F0%9F%90%B3+Container+Orchestration+Enthusiast;%F0%9F%94%A7+Infrastructure+as+Code+Expert" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
-<!-- Profile Badges -->
+<br/>
+
+<!-- Profile Stats Bar -->
 <p align="center">
-  <a href="https://portfolio-topaz-omega-46.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  <a href="https://komarev.com/ghpvc/?username=khushalbhavsar">
+    <img src="https://komarev.com/ghpvc/?username=khushalbhavsar&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/khushalbhavsar">
-    <img src="https://komarev.com/ghpvc/?username=khushalbhavsar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-00d9ff?style=flat-square" alt="Focus"/>
   <a href="https://github.com/khushalbhavsar?tab=followers">
-    <img src="https://img.shields.io/github/followers/khushalbhavsar?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/khushalbhavsar?label=Followers&style=flat-square&color=00d9ff" alt="Followers"/>
   </a>
   <a href="https://github.com/khushalbhavsar?tab=repositories">
-    <img src="https://img.shields.io/github/stars/khushalbhavsar?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Total Stars"/>
+    <img src="https://img.shields.io/badge/dynamic/json?color=00d9ff&label=Total%20Stars&style=flat-square&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/khushalbhavsar" alt="Stars"/>
   </a>
 </p>
 
 <br/>
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated Divider" width="100%" />
-</p>
-
-<!-- About Me Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-  About Me
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-left: 10px;">
-</h2>
-
-<p align="center">
-  <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation"/>
-</p>
-
-<div align="left">
-
-```yaml
-name: Khushal Bhavsar
-role: Cloud & DevOps Engineer
-location: India 🇮🇳
-passion: Building Scalable Cloud Infrastructure
-
-current_focus:
-  - AWS Cloud Solutions
-  - Infrastructure as Code
-  - CI/CD Automation
-  - Container Orchestration
-
-fun_fact: "I automate everything... even my morning coffee! ☕"
-```
-
+<!-- About Me with Modern Card Layout -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=khushalbhavsar&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox"/>
+      </td>
+      <td>
+        <img width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f3d.gif" alt="Coding Animation"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br clear="both"/>
+<br/>
 
-<!-- Skills Section -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated Divider" width="100%" />
-</p>
+<!-- Quick Info Cards -->
+<div align="center">
+  <img src="https://img.shields.io/badge/📍_Location-India-1a1b27?style=for-the-badge&labelColor=00d9ff"/>
+  <img src="https://img.shields.io/badge/🎯_Focus-AWS_Cloud-1a1b27?style=for-the-badge&labelColor=ff6b6b"/>
+  <img src="https://img.shields.io/badge/💼_Role-DevOps_Engineer-1a1b27?style=for-the-badge&labelColor=4ecdc4"/>
+  <a href="https://portfolio-topaz-omega-46.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-1a1b27?style=for-the-badge&labelColor=ffe66d"/>
+  </a>
+</div>
 
+<br/>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<br/><br/>
+
+<!-- Section Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<br/>
+
+<!-- Tech Stack Section -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
-  Tech Arsenal
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"/>
+  &nbsp;Tech Stack&nbsp;
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"/>
 </h2>
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td align="center" width="140" height="112">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br><b>Docker</b>
-    </td>
-    <td align="center" width="140" height="112">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-      <br><b>Kubernetes</b>
-    </td>
-    <td align="center" width="140" height="112">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-      <br><b>AWS</b>
-    </td>
-    <td align="center" width="140" height="112">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="65" height="65" />
-      <br><b>Terraform</b>
-    </td>
-    <td align="center" width="140" height="112">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="65" height="65" />
-      <br><b>Jenkins</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140" height="112">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br><b>Python</b>
-    </td>
-    <td align="center" width="140" height="112">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="65" height="65" />
-      <br><b>Bash</b>
-    </td>
-    <td align="center" width="140" height="112">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="65" height="65" />
-      <br><b>Linux</b>
-    </td>
-    <td align="center" width="140" height="112">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br><b>GitHub</b>
-    </td>
-    <td align="center" width="140" height="112">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
-      <br><b>Git</b>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- Additional Skills with Icons -->
+<!-- Skills with Modern Icons -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,python,bash,linux,git,github,gitlab,ansible,prometheus,grafana&perline=7" alt="Skills Icons"/>
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,gitlab,python,bash,linux,git,github,prometheus,grafana,vscode&theme=dark&perline=8" alt="Skills"/>
   </a>
 </div>
 
 <br/>
 
-<!-- Skills Categories -->
+<!-- Skills Categories - Modern Expandable -->
 <details>
-<summary><b>☁️ Cloud & DevOps Expertise (Click to expand)</b></summary>
+<summary align="center"><b>🔥 Click to see my full tech expertise</b></summary>
 <br/>
 
+<div align="center">
+
 | Category | Technologies |
-|----------|-------------|
-| 🐳 **Core DevOps** | Docker, Kubernetes, Amazon EKS, Jenkins, Terraform |
-| ☁️ **Cloud Platform (AWS)** | EC2, EKS, ECR, S3, RDS, IAM, VPC, ALB, CloudWatch |
-| ⚙️ **CI/CD** | Jenkins, GitLab CI, SonarQube |
-| 🏗️ **Infrastructure as Code** | Terraform (modules, state management) |
-| 📊 **Monitoring & Observability** | Prometheus, Grafana, CloudWatch |
-| 🐍 **Scripting & Automation** | Bash, Python (CI/CD scripts, automation tasks) |
-| 🔧 **Version Control** | Git, GitHub |
-| 🐧 **Operating Systems** | Linux (Ubuntu, Amazon Linux) |
-| 🤖 **Configuration Management (Familiar)** | Ansible, Puppet, Chef |
+|:--------:|:-------------|
+| <img src="https://img.shields.io/badge/-Cloud%20%26%20Infra-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/> | `AWS` `EC2` `VPC` `IAM` `S3` `RDS` `ALB` `Auto Scaling` `Lambda` `CloudWatch` `CloudFormation` `EKS` `ECR` |
+| <img src="https://img.shields.io/badge/-Containers-2496ED?style=flat-square&logo=docker&logoColor=white"/> | `Docker` `Kubernetes` `Amazon EKS` |
+| <img src="https://img.shields.io/badge/-IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white"/> | `Terraform (modules, remote state, provisioning)` |
+| <img src="https://img.shields.io/badge/-CI/CD-D24939?style=flat-square&logo=jenkins&logoColor=white"/> | `Jenkins` `GitHub Actions` `GitLab CI` `ArgoCD` `SonarQube` |
+| <img src="https://img.shields.io/badge/-Monitoring-E6522C?style=flat-square&logo=prometheus&logoColor=white"/> | `Prometheus` `Grafana` |
+| <img src="https://img.shields.io/badge/-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/> | `Python` `Bash` |
+| <img src="https://img.shields.io/badge/-Security-00979D?style=flat-square&logo=aqua&logoColor=white"/> | `Trivy` `OWASP Dependency Check` |
+| <img src="https://img.shields.io/badge/-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white"/> | `Git` `GitHub` |
+| <img src="https://img.shields.io/badge/-OS-FCC624?style=flat-square&logo=linux&logoColor=black"/> | `Linux (Ubuntu, Amazon Linux)` |
+
+</div>
 
 </details>
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated Divider" width="100%" />
-</p>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<br/>
 
 <!-- GitHub Stats Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>
-  GitHub Analytics
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez4/giphy.gif" width="24"/>
+  &nbsp;GitHub Analytics&nbsp;
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez4/giphy.gif" width="24"/>
 </h2>
 
 <br/>
 
-<!-- GitHub Streak -->
+<!-- Stats Cards in Grid -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=khushalbhavsar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=khushalbhavsar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalbhavsar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8"/>
+    <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushalbhavsar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  </picture>
+</div>
+
+<br/>
+
+<!-- GitHub Streak with Modern Theme -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=khushalbhavsar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=khushalbhavsar&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak"/>
 </p>
+
+<br/>
 
 <!-- Contribution Graph -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=khushalbhavsar&theme=react-dark&hide_border=true&area=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=khushalbhavsar&theme=minimal&hide_border=true&area=true"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushalbhavsar&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-  </picture>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khushalbhavsar&custom_title=Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area_color=00d9ff&title_color=ffffff&area=true&hide_border=true" width="100%"/>
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated Divider" width="100%" />
-</p>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<br/>
 
 <!-- Certifications Section -->
 <h2 align="center">
-  🏆 Certifications
+  <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="24"/>
+  &nbsp;Certifications&nbsp;
+  <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="24"/>
 </h2>
+
+<br/>
 
 <p align="center">
   <a href="https://www.credly.com/badges/your-badge-link" target="_blank">
@@ -199,55 +169,86 @@ fun_fact: "I automate everything... even my morning coffee! ☕"
   </a>
 </p>
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated Divider" width="100%" />
-</p>
+<br/>
 
-<!-- Random Dev Quote -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<br/>
+
+<!-- What I'm Up To Section -->
 <h2 align="center">
-  💭 Dev Quote of the Day
+  ⚡ What I'm Currently Up To
+</h2>
+
+<br/>
+
+<div align="center">
+  
+```javascript
+const khushal = {
+    currentlyLearning: ["Advanced Kubernetes", "GitOps", "Platform Engineering"],
+    askMeAbout: ["AWS", "DevOps", "CI/CD", "Infrastructure as Code"],
+    funFact: "I automate everything... even my morning coffee! ☕",
+    reachMe: "khushalbhavsar41@gmail.com"
+};
+```
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<br/>
+
+<!-- Quote Section -->
+<h2 align="center">
+  💭 Dev Quote
 </h2>
 
 <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" alt="Dev Quote"/>
 </p>
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Animated Divider" width="100%" />
-</p>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<br/>
 
 <!-- Connect Section -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-  Let's Connect
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24"/>
+  &nbsp;Let's Connect&nbsp;
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24"/>
 </h2>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/khushal-bhavsar-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:khushalbhavsar41@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/khushal_bhavsar._/?igsh=MXViN3Ftd3R1ZDh2Ng==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://github.com/khushalbhavsar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
+  <a href="https://portfolio-topaz-omega-46.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+<br/><br/>
 
 <!-- Animated Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
 
 <p align="center">
-  <b>Thanks for visiting! Have a great day! 😄</b>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+Have+a+great+day!+%F0%9F%91%8B" alt="Footer"/>
 </p>
 

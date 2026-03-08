@@ -1,5 +1,5 @@
-<!-- 3D Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Khushal%20Bhavsar&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=75&descSize=20"/>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00d9ff&height=200&section=header&text=Khushal%20Bhavsar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descSize=22&descColor=00d9ff"/>
 
 <!-- Animated Introduction -->
 <div align="center">

@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/github/followers/khushalbhavsar?label=Followers&style=flat-square&color=00d9ff" alt="Followers"/>
   </a>
   <a href="https://github.com/khushalbhavsar?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?color=00d9ff&label=Total%20Stars&style=flat-square&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/khushalbhavsar" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/khushalbhavsar?label=Total%20Stars&style=flat-square&color=00d9ff" alt="Stars"/>
   </a>
 </p>
 
@@ -28,38 +28,27 @@
 
 <!-- About Me with Modern Card Layout -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=khushalbhavsar&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox"/>
-      </td>
-      <td>
-        <img width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f3d.gif" alt="Coding Animation"/>
-      </td>
-    </tr>
-  </table>
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f3d.gif" alt="Coding Animation"/>
 </div>
 
 <br/>
 
 <!-- Quick Info Cards -->
 <div align="center">
-  <img src="https://img.shields.io/badge/📍_Location-India-1a1b27?style=for-the-badge&labelColor=00d9ff"/>
-  <img src="https://img.shields.io/badge/🎯_Focus-AWS_Cloud-1a1b27?style=for-the-badge&labelColor=ff6b6b"/>
-  <img src="https://img.shields.io/badge/💼_Role-DevOps_Engineer-1a1b27?style=for-the-badge&labelColor=4ecdc4"/>
+  <img src="https://img.shields.io/badge/Location-India-1a1b27?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=00d9ff"/>
+  <img src="https://img.shields.io/badge/Focus-AWS_Cloud-1a1b27?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=ff6b6b"/>
+  <img src="https://img.shields.io/badge/Role-DevOps_Engineer-1a1b27?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=4ecdc4"/>
   <a href="https://portfolio-topaz-omega-46.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-1a1b27?style=for-the-badge&labelColor=ffe66d"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=ffe66d"/>
   </a>
 </div>
 
 <br/>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<!-- Metrics Animation -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushalbhavsar&theme=tokyonight" alt="Profile Details" width="100%"/>
+</p>
 
 <br/><br/>
 
@@ -246,7 +235,7 @@ const khushal = {
 <br/><br/>
 
 <!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:1a1b27,100:0d1117&height=100&section=footer"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+Have+a+great+day!+%F0%9F%91%8B" alt="Footer"/>

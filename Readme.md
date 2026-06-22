@@ -21,9 +21,9 @@
 
 ## About
 
-B.Tech in Electronics & Telecommunication Engineering — specialized in cloud-native DevOps, now expanding into MLOps. I build production-grade infrastructure: multi-environment Terraform, GitOps pipelines with ArgoCD, DevSecOps CI/CD with real security gates, and Kubernetes workloads on AWS EKS.
+B.Tech in Electronics & Telecommunication Engineering specialized in cloud-native DevOps, now expanding into MLOps. I build production-grade infrastructure: multi-environment Terraform, GitOps pipelines with ArgoCD, DevSecOps CI/CD with real security gates, and Kubernetes workloads on AWS EKS.
 
-Currently building an end-to-end ML pipeline with the same discipline I bring to infrastructure — observable, reproducible, and GitOps-managed.
+Currently building an end-to-end ML pipeline with the same discipline I bring to infrastructure observable, reproducible, and GitOps-managed.
 
 - 📍 Pune, India &nbsp;|&nbsp; 📬 khushalbhavsar41@gmail.com
 - 🔍 Open to DevOps, Cloud, and MLOps roles
@@ -124,22 +124,6 @@ Namespace: monitoring
 
 ---
 
-### 🔶 Customer Churn Prediction — MLOps Pipeline *(In Progress)*
-
-> End-to-end MLOps system bridging my DevOps background into ML: DVC for data versioning, MLflow for experiment tracking, FastAPI + BentoML for model serving, Evidently for drift monitoring, Prefect for orchestration — all deployed on AWS SageMaker with GitOps-managed delivery via ArgoCD on EKS.
-
-```
-Data (DVC) ──▶ Train (MLflow) ──▶ Serve (FastAPI / BentoML)
-                                          │
-                                   Monitor (Evidently)
-                                          │
-                              GitOps Deploy (ArgoCD + EKS)
-```
-
-**Stack:** `Python` `DVC` `MLflow` `FastAPI` `BentoML` `Prefect` `Evidently` `SageMaker` `ArgoCD` `EKS`
-
----
-
 ## Skills
 
 | Category | Technologies |
@@ -150,7 +134,6 @@ Data (DVC) ──▶ Train (MLflow) ──▶ Serve (FastAPI / BentoML)
 | **CI/CD** | `Jenkins` `GitHub Actions` `GitLab CI` `ArgoCD` |
 | **DevSecOps** | `SonarQube` `Trivy` `OWASP Dependency-Check` `Kyverno` |
 | **Monitoring** | `Prometheus` `Grafana` `Loki` |
-| **MLOps** *(building)* | `DVC` `MLflow` `FastAPI` `BentoML` `Prefect` `Evidently` `SageMaker` |
 | **Languages** | `Python` `Bash` |
 | **OS** | `Linux` — Ubuntu · Amazon Linux |
 
@@ -183,18 +166,89 @@ Data (DVC) ──▶ Train (MLflow) ──▶ Serve (FastAPI / BentoML)
 
 ---
 
-## Currently Building
+## 🛠️ My MLOps & LLMOps Learning Path
 
-| Phase | Focus | Status |
-|-------|-------|--------|
-| 1–3 | Python for ML · NumPy · Pandas | ✅ Done |
-| 4–5 | ML fundamentals · Scikit-learn | ✅ Done |
-| 6 | DVC · MLflow · Experiment tracking | 🔄 In progress |
-| 7 | FastAPI · BentoML · Model serving | ⏳ Upcoming |
-| 8 | Prefect orchestration | ⏳ Upcoming |
-| 9 | Evidently · Drift monitoring | ⏳ Upcoming |
-| 10 | AWS SageMaker | ⏳ Upcoming |
-| 11 | Capstone: Churn Prediction System | ⏳ Upcoming |
+> Transitioning from AWS + DevOps Engineer → MLOps / LLMOps Engineer.
+> DevOps foundation already built. Focus: ML, MLOps, RAG, and LLMOps.
+> Total duration: 16–20 weeks · 2–4 hrs/day
+
+<details>
+<summary><b>Phase 0–2 &nbsp;·&nbsp; Foundations</b></summary>
+<br/>
+
+| Phase | Focus | Key Tools | Project | Status |
+|-------|-------|-----------|---------|--------|
+| 0 · Python for ML *(3 days)* | NumPy · Pandas · Matplotlib · Seaborn · Jupyter | Jupyter | Netflix Dataset Analysis | ✅ Done |
+| 1 · ML Fundamentals *(2 weeks)* | Data Prep · Encoding · Scaling · Regression · Random Forest · XGBoost · Evaluation Metrics | Scikit-Learn | House Price Prediction · Customer Churn Prediction | ✅ Done |
+| 2 · Data Engineering *(1 week)* | SQL (SELECTs · JOINs · CTEs · Window Functions) · CSV/JSON/Parquet · ETL | Pandas · SQL | ETL Pipeline: Source → SQL → Pandas → Clean → Store | ✅ Done |
+
+</details>
+
+<details>
+<summary><b>Phase 3–7 &nbsp;·&nbsp; MLOps Core</b></summary>
+<br/>
+
+| Phase | Focus | Key Tools | Project | Status |
+|-------|-------|-----------|---------|--------|
+| 3 · DVC *(1 week)* | Data Versioning · `dvc init/add/push/pull` · Pipeline with `dvc.yaml` + `dvc repro` | DVC · Git | Version dataset + features + models | 🔄 In progress |
+| 4 · MLflow *(1 week)* | Experiment Tracking · Params/Metrics/Artifacts · Model Registry (Staging → Production) | MLflow | Compare Random Forest vs XGBoost, track everything | ⏳ Upcoming |
+| 5 · FastAPI *(1 week)* | REST APIs · Routing · Pydantic Validation · Error Handling | FastAPI | Churn Prediction API — `POST /predict` | ⏳ Upcoming |
+| 6 · Docker for ML *(3 days)* | Dockerfile · Multi-stage Builds · Volumes · Networking | Docker | Containerize FastAPI model | ⏳ Upcoming |
+| 7 · BentoML *(1 week)* | Model Packaging · Registry · Service Creation · Deployment | BentoML | Deploy Churn model as production-ready service | ⏳ Upcoming |
+
+</details>
+
+<details>
+<summary><b>Phase 8–12 &nbsp;·&nbsp; Production MLOps</b></summary>
+<br/>
+
+| Phase | Focus | Key Tools | Project | Status |
+|-------|-------|-----------|---------|--------|
+| 8 · Orchestration *(1 week)* | Flows · Tasks · Scheduling · Retries · Monitoring | Prefect · Airflow | Ingest → Preprocess → Train → Validate → Deploy | ⏳ Upcoming |
+| 9 · Kubernetes for MLOps *(1 week)* | Deploy FastAPI + BentoML · Deployments · Services · ConfigMaps · HPA | Kubernetes · EKS | Deploy model on Kubernetes | ⏳ Upcoming |
+| 10 · GitOps *(3 days)* | GitHub → ArgoCD → Kubernetes auto-deploy | ArgoCD | Auto-deploy ML service via GitOps | ⏳ Upcoming |
+| 11 · Monitoring *(1 week)* | Data Drift · Concept Drift · Prediction Drift · Latency · Throughput | Evidently AI · Prometheus · Grafana | Monitor production model drift + performance | ⏳ Upcoming |
+| 12 · AWS MLOps *(1 week)* | SageMaker · S3 · ECR · EKS · Step Functions · Model Training · Endpoints | AWS SageMaker | Deploy model via SageMaker endpoints | ⏳ Upcoming |
+
+</details>
+
+<details>
+<summary><b>Phase 13–15 &nbsp;·&nbsp; RAG + LLMOps</b></summary>
+<br/>
+
+| Phase | Focus | Key Tools | Project | Status |
+|-------|-------|-----------|---------|--------|
+| 13 · RAG *(2 weeks)* | Embeddings · Chunking · Retrieval · Re-ranking · Vector DBs | ChromaDB · FAISS · Pinecone · Sentence Transformers | PDF Chat App — FastAPI + ChromaDB + LLM | ⏳ Upcoming |
+| 14 · LangChain + LangGraph *(2 weeks)* | Chains · Retrievers · Memory · Tools · State · Nodes · Multi-Agent | LangChain · LangGraph | AI Resume Analyzer · Multi-Agent Research Assistant | ⏳ Upcoming |
+| 15 · LLMOps *(2 weeks)* | LLM Deployment · RAG Evaluation · Hallucination Detection · Prompt Evaluation | Ollama · vLLM · HF TGI · LangSmith · Arize AI | Production RAG System | ⏳ Upcoming |
+
+</details>
+
+<details>
+<summary><b>Final Capstone &nbsp;·&nbsp; Enterprise AI Assistant (3 weeks)</b></summary>
+<br/>
+
+Full-stack production AI system integrating every phase:
+
+```
+User
+ └─▶ React Frontend
+       └─▶ FastAPI
+             └─▶ LangChain
+                   └─▶ Vector DB (ChromaDB / Pinecone)
+                         └─▶ LLM (vLLM / Ollama)
+                               └─▶ MLflow
+                                     └─▶ Docker → Kubernetes (EKS)
+                                           └─▶ ArgoCD (GitOps deploy)
+                                                 └─▶ Prometheus + Grafana + Evidently
+```
+
+**Target roles after completion:** MLOps Engineer · LLMOps Engineer · AI Platform Engineer · AI Infrastructure Engineer · Generative AI Engineer
+
+</details>
+
+**Certifications (planned):**
+`AWS Certified AI Practitioner` &nbsp; `AWS Certified Machine Learning Engineer – Associate`
 
 ---
 
